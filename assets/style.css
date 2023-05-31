@@ -1,0 +1,24 @@
+
+.navbar {
+    height: 80px;
+}
+
+.container-fluid {
+    margin-top: 20px;
+}
+
+.city-search-form {
+    margin-bottom: 20px;
+}
+
+.card {
+    margin-bottom: 20px;
+}
+
+.forecast-title {
+    margin-bottom: 10px;
+}
+
+.card-group {
+    margin-right: 10px;
+}
