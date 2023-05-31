@@ -23,11 +23,10 @@ This application was developed as part of the Server-Side APIs Challenge for the
 
 ## Usage
 
-1. Clone the repository:
+Live Link:  https://alandbalan.github.io/06-Server-Side-APIs-Challenge-Weather-Dashboard/
 
-   ```shell
-   git clone https://github.com/your-username/06-Server-Side-APIs-Challenge-Weather-Dashboard.git
-   
+Github Repo: https://github.com/AlanDBalan/06-Server-Side-APIs-Challenge-Weather-Dashboard
+
 Open the index.html file in a web browser.
 
 Enter a city name in the search input and click the "Submit" button to retrieve weather information for that city.
